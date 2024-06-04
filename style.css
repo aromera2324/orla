@@ -1,0 +1,110 @@
+.titol {
+    height: 100px;
+    width: 600px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    top: 65px;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p {
+    text-align: center;
+    position: relative;
+    font-size: 1.3rem;
+    top: 70px;
+    right: 40px;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.invisible {
+
+    height: 600px;
+    width: 232px;
+    float: left;
+    margin: 10px;
+    position: relative;
+    top: 60px;
+}
+
+#Companyerisme {
+    position: relative;
+    left: -50px;
+}
+
+#Ilusió {
+    position: relative;
+    left: 0px;
+}
+
+#Estimació {
+    position: relative;
+    right: 20px;
+}
+
+#Tenacitat {
+    position: relative;
+    left: -10px;
+}
+
+#Responsabilitat {
+    position: relative;
+    left: -53px;
+}
+
+.superpoder {
+    background: rgb(255, 229, 229);
+    height: 470px;
+    width: 90%;
+    float: left;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    box-shadow: 0px 0px 5px 5px rgb(172, 172, 172);
+}
+
+.superpoder:hover {
+    background: white;
+    top: 30px;
+}
+
+.foto {
+    height: 98px;
+    width: 98px;
+    border-radius: 100%;
+    position: absolute;
+    top: 20px;
+    left: 55px;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.nombre {
+    background: orange;
+    height: 300px;
+    width: 100%;
+    border-radius: 0 0 5% 5%;
+    position: absolute;
+    top: 300px;
+    box-shadow: 0px 0px 5px 5px rgb(172, 172, 172);
+}
